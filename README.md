@@ -72,6 +72,25 @@ Here’s a list of the current projects included in this repository:
     ├── turtle_racing.py
     └── README.md
     ```
+
+### **Project 4: Global Wealth Analysis (Excel Project) 📊**
+
+- **Description**:  
+  This is my first Excel project, where I analyzed the distribution of billionaires worldwide. I followed a guided project from [this YouTube video](https://youtu.be/aUMEx4in2iU?si=SHrgMOKJ04SY1Vj1) to learn and apply Excel skills like Pivot Tables, Charts, and Slicers. The project provides insights into the top countries and industries with the most billionaires and their total wealth distribution.
+
+- **Technologies Used**:  
+  Microsoft Excel, Pivot Tables, Charts, Slicers
+
+- **Purpose**:  
+  I created this project to learn how to analyze and visualize financial data using Excel. This helped me understand data structuring, filtering, and interactive dashboard creation.
+
+- **Folder Structure**:
+
+    ```
+    Global_Wealth_Analysis/
+    ├── Billionaires Statistics.xlsx
+    └── README.md
+    ```
 ---
 
 ## 🌱 How to Contribute
