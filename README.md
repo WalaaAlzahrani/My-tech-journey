@@ -99,7 +99,7 @@ Here’s a list of the current projects included in this repository:
   This Power BI project analyzes 335 events that took place in Riyadh City between January 1, 2022, and December 2, 2024. The dashboard includes insights into how holidays, weather conditions, paydays, and school schedules influence event frequency. It is structured into two main pages: **Data Overview** and **Event Analysis**.
 
 - **Technologies Used**:  
-  Power BI Desktop, Data Visualization, DAX
+  Power BI Desktop, Data Visualization
 
 - **Purpose**:  
   I created the Saudi Events Dashboard to practice building interactive reports using Power BI. This project improved my skills in data modeling, trend analysis, and dashboard design focused on real-world contextual insights.
