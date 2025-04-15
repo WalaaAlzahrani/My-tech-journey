@@ -93,6 +93,26 @@ Here’s a list of the current projects included in this repository:
     ```
 ---
 
+### **Project 5: Saudi Events Dashboard (Power BI Project) 📈**
+
+- **Description**:  
+  This Power BI project analyzes 335 events that took place in Riyadh City between January 1, 2022, and December 2, 2024. The dashboard includes insights into how holidays, weather conditions, paydays, and school schedules influence event frequency. It is structured into two main pages: **Data Overview** and **Event Analysis**.
+
+- **Technologies Used**:  
+  Power BI Desktop, Data Visualization, DAX
+
+- **Purpose**:  
+  I created the Saudi Events Dashboard to practice building interactive reports using Power BI. This project improved my skills in data modeling, trend analysis, and dashboard design focused on real-world contextual insights.
+
+- **Folder Structure**:
+
+    ```
+    Saudi_Events_Dashboard/
+    ├── Saudi_Events_Dashboard.pbix
+    ├── Saudi Events Analysis\Saudi Calendar Events final - Data Scraping.xlsx
+    └── README.md
+    ```
+    
 ## 🌱 How to Contribute
 
 This repository is a personal project and serves as a learning log, but feel free to fork the repo and use the projects as a reference. Contributions are welcome, especially if you have suggestions for improvements or ways to enhance the projects!
