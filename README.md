@@ -91,7 +91,6 @@ Here’s a list of the current projects included in this repository:
     ├── Billionaires Statistics.xlsx
     └── README.md
     ```
----
 
 ### **Project 5: Saudi Events Dashboard (Power BI Project) 📈**
 
