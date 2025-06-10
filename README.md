@@ -111,6 +111,30 @@ Here’s a list of the current projects included in this repository:
     ├── Saudi Events Analysis\Saudi Calendar Events final - Data Scraping.xlsx
     └── README.md
     ```
+
+### **Project 6: TMDB Movie Data Analysis 🎬**
+
+- **Description**:  
+  This Python project explores a large real-world movie dataset from TMDB (The Movie Database). It includes data cleaning, exploratory data analysis (EDA), and feature engineering to understand patterns in genres, ratings, popularity, revenue, and more. The project also involves visualizations and exporting clean datasets for future use.
+
+- **Technologies Used**:  
+  Python, Pandas, NumPy, Seaborn, Matplotlib, Jupyter Notebook, Excel (`openpyxl`)
+
+- **Purpose**:  
+  I created this project to practice handling large datasets, cleaning messy data, performing EDA, and telling data stories through visuals. It also helped me learn how to prepare datasets for downstream tasks and how to engineer meaningful features like ROI and release decades.
+
+- **Folder Structure**:
+
+    ```
+    TMDB_Movie_Data_Analysis/
+    ├── mainn.py
+    ├── tmdb_clean_export.json
+    ├── tmdb_clean_export.csv
+    ├── top_movies.json
+    ├── .gitignore
+    └── README.md
+    ```
+
     
 ## 🌱 How to Contribute
 
