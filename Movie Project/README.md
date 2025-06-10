@@ -68,7 +68,7 @@ This project went through different phases (I followed them like mini milestones
 - `mainn.py`: My full code (with notes, comments, and learning points)
 - `README.md`: You're reading it!
 - `data/TMDB_all_movies.xlsx`: Not included (download from Kaggle)
-- `cleaned_tmdb_movies.csv`: Clean dataset I used for analysis
+- `cleaned_tmdb_movies.csv`: Clean dataset I used for analysis. Not included also(you need to run the code to get it)
 - `tmdb_clean_export.csv/json`: Filtered and app-ready version
 - `top_movies.json`: Top 20 highly rated movies (by vote average)
 
