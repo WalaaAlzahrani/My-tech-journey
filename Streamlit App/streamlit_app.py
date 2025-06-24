@@ -17,11 +17,6 @@ caption_model = load_caption_model()
 # Load Haar Cascade model for face detection
 face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 
-# ✅ TEST: Print out the model path and whether the file exists
-model_path = cv2.data.haarcascades + "haarcascade_frontalface_default.xml"
-st.text(f"Using face model at: {model_path}")
-st.text(f"File exists: {os.path.exists(model_path)}")
-
 st.set_page_config(page_title="AI Photo App", layout="centered")
 st.title("📸 Face Detection + Image Captioning")
 
@@ -51,9 +46,9 @@ if uploaded_file:
         cv2.rectangle(image_np, (x, y), (x + w, y + h), (0, 255, 0), 2)
 
     # Show original and detected image
-    st.image(image, caption="🖼️ Original Image", use_column_width=True)
+    st.image(image, caption="🖼️ Original Image", use_container_width=True)
     st.image(
-        image_np, caption=f"✅ Detected {len(faces)} Face(s)", use_column_width=True
+        image_np, caption=f"✅ Detected {len(faces)} Face(s)", use_container_width=True
     )
 
     # Generate image caption
