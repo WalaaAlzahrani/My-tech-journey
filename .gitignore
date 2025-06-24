@@ -1,0 +1,18 @@
+# Ignore Python environments
+venv/
+.venv/
+
+# Ignore cache
+__pycache__/
+*.pyc
+
+# Ignore Streamlit and model files
+.streamlit/
+*.pt
+*.bin
+*.h5
+*.onnx
+
+# OS files
+.DS_Store
+Thumbs.db
